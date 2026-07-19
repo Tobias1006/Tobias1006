@@ -1,7 +1,4 @@
 ## Hi there 👋
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f37cdd59-a3c9-4ccd-aa79-5a0c5ad335c6/thumbnail" >
-</p>
 
 I completed the following Courses on Boots.dev: 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cdab8b89-634b-443b-ac8e-bca90f7244d4.jpeg?v=1782813705)](https://www.boot.dev/certificates/cdab8b89-634b-443b-ac8e-bca90f7244d4)
