@@ -7,6 +7,7 @@ I completed the following Courses on Boots.dev:
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/963caa14-09c6-4fdf-9cf0-100831b185ae.jpeg?v=1782994982)](https://www.boot.dev/certificates/963caa14-09c6-4fdf-9cf0-100831b185ae)
 [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/35ce0bb7-66e7-4f5b-ad3f-54c7715b3721.jpeg?v=1783587002)](https://www.boot.dev/certificates/35ce0bb7-66e7-4f5b-ad3f-54c7715b3721)
 [![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0f29747c-5cdd-4fcd-b1b4-2d27f3dcdf54.jpeg?v=1784392579)](https://www.boot.dev/certificates/0f29747c-5cdd-4fcd-b1b4-2d27f3dcdf54)
+[![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4aac3d12-7fc7-4591-9715-079c873bc72d.jpeg?v=1789546966)](https://www.boot.dev/certificates/4aac3d12-7fc7-4591-9715-079c873bc72d)
 
 I finished the following Projects on Boots.dev: 
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c761e23c-3122-4818-a2cb-35afa3603db9.jpeg?v=1783840523)](https://www.boot.dev/certificates/c761e23c-3122-4818-a2cb-35afa3603db9)
